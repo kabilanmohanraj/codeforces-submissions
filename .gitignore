@@ -1,2 +1,4 @@
-*
-!*.cpp
+contest/*
+!contest/*.cpp
+practice/*
+!practice/*.cpp
